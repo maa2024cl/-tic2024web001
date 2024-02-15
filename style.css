@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.bloque1,
+.bloque2 {
+  border: 2px solid;
+  margin: 10px 0;
+}
+
+.bloque1 {
+  background-color: gold;
+}
+
+.bloque2 {
+  background-color: silver;
+}
+
+section,
+h1,
+h2,
+h3 {
+  text-align: left;
+  /* Alinea el texto a la izquierda" */
+}
